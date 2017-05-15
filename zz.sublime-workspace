@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"obje",
+				"object"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"most_",
+				"most_frequent_pixel"
+			],
+			[
+				"tiles",
+				"tiles"
+			],
+			[
+				"image",
+				"image_tiles"
+			],
+			[
+				"most_fr",
+				"most_frequent_colour"
+			],
+			[
+				"board",
+				"board_tiles"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"crop",
+				"crop_board"
+			],
+			[
+				"tile",
+				"tile_size"
+			],
+			[
+				"grab",
+				"grab_board"
+			],
+			[
+				"ret",
+				"ret_status"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 244,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/MeArio/AppData/Roaming/Sublime Text 3/Packages/User/Love.sublime-build",
+			"settings":
+			{
+				"buffer_size": 73,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "Packages/User/Love.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Kulture/ASP.NET.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Love.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Love.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 235.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"solution",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"omnisharp",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 370.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Development/oopsokoban/zz.sublime-project",
+		"/D/Development/oopsokoban/objects/Map.lua",
+		"/D/Development/oopsokoban/conf.lua",
+		"/D/Development/oopsokoban/levels/level..lua",
+		"/D/Development/oopsokoban/run.bat",
+		"/D/Development/oopsokoban/levels/level.lua",
+		"/C/Users/MeArio/Desktop/main/main.lua",
+		"/D/poems/in Doi.txt",
+		"/C/Users/MeArio/Downloads/Program_proiect-1.cs",
+		"/C/Users/MeArio/Desktop/Program_proiect.cs",
+		"/D/Development/bot_of_war/todo.txt",
+		"/D/Development/bot_of_war/main.py",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/Stubby/Stubby.toc",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/Auctioneer/Auctioneer.lua",
+		"/C/Users/MeArio/Downloads/pt-proiect (1).cs",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/Stubby/Stubby.lua",
+		"/C/Users/MeArio/Desktop/pt-proiect.cs",
+		"/D/Development/bot_of_war/Lib/site-packages/pythonwin/pywin/scintilla/IDLEenvironment.py",
+		"/D/Development/bot_of_war/Lib/site-packages/numpy/testing/utils.py",
+		"/D/Development/bot_of_war/Lib/site-packages/numpy/ma/testutils.py",
+		"/D/Development/bot_of_war/Lib/site-packages/PIL/Image.py",
+		"/D/Development/Asm/book/skel.asm",
+		"/D/Development/Asm/book/driver.c",
+		"/D/Development/p5js/HelloWorld/sketch.js",
+		"/D/Development/p5js/HelloWorld/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"imobi",
+			"imobiliara",
+			"STUBBYCON",
+			"STUBB",
+			"SY",
+			"618",
+			"object",
+			"matrix"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/MeArio/AppData/Roaming/Sublime Text 3/Packages/User/Love.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "zz.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,7 @@
+Sokoban:
+    -load a level
+    -make the player move
+    -write collision detection
+    -write collision handling
+    -detect win scenario
+    -make UI

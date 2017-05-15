@@ -1,0 +1,15 @@
+Behaviour:
+-move a player:
+-push a box
+-change a box into a point
+
+Data:
+-player position
+  player.x (int)
+  player.y (int)
+-boxes position
+  box.y, box.y
+-point position
+  point.x, point.y
+-box is on point
+  box.check (bool)
